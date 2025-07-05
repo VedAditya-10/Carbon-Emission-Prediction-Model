@@ -1,6 +1,6 @@
-# 🌱 Carbon Emission Predictor for Goods Vehicles
+# 🌱 Carbon Emission Predictor for Commercial Transport Vehicles
 
-A machine learning model that predicts CO₂ emissions of cargo/goods-carrying vehicles based on key parameters like engine size, fuel type, vehicle weight, and transmission.
+A machine learning model that predicts CO₂ emissions of cargo/goods-carrying vehicles based on key parameters like engine size, fuel type, vehicle weight, and transmission. The Model has an R² score of 0.90970 in predicting CO₂ emissions after cleaning and training on the dataset only for Freight, Cargo carrying commercial vehicles.
 
 ---
 
