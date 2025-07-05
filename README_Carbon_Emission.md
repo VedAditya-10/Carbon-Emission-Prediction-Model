@@ -13,7 +13,7 @@ A machine learning model that predicts CO₂ emissions of cargo/goods-carrying v
 
 ---
 
-## 🧩 Key Features
+## Key Features
 
 - Data preprocessing and feature engineering  
 - Exploratory Data Analysis (EDA)  
@@ -23,7 +23,7 @@ A machine learning model that predicts CO₂ emissions of cargo/goods-carrying v
 
 ---
 
-## 🗃️ Files Included
+## Files Included
 
 - `Carbon_Emission_Predictor.ipynb` – Full project notebook  
 - `carbon_model.pkl` – Trained model (exported using pickle)  
@@ -67,7 +67,7 @@ print(f"Estimated CO₂ Emission: {round(prediction)} g/km")
 
 ---
 
-## 🔧 Built With
+## Built With
 
 - Python, Pandas, NumPy  
 - scikit-learn  
@@ -76,6 +76,3 @@ print(f"Estimated CO₂ Emission: {round(prediction)} g/km")
 
 ---
 
-## 📬 Contact
-
-For queries or improvements, connect via GitHub: [YourUsername](https://github.com/YourUsername)
